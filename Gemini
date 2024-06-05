@@ -1,54 +1,106 @@
-# Round 1: Copy AI
-[Copy AI](https://www.copy.ai/) is an online AI tool that mainly **generates text** in response to user prompts. As the name suggests, it is more directed towards **copywriting**, which may have a more **professional tone**. As of now, the tool does not generate images or videos.
+# Round 1: GEMINI
+Gemini AI is a cutting-edge feature within Google Bard that enables users to generate images from textual descriptions. 
 
 | Media       | Text       | Image | Video |
 |-------------|------------|-------|-------|
-| Supported?  | Yes        | No    | No    |
-| Rating      | 5          | 0     | 0     |
-| Time needed | 10 minutes | N/A   | N/A   |
+| Supported?  | Yes        | Yes    | No    |
+| Rating      | 5          | 5     | 0     |
+| Time needed | 10 minutes | 10 minutes   | N/A   |
 
 ## Getting Started
 To start using the tool:
-1. Go to https://www.copy.ai/
+1. Go to https://gemini.google.com/
 2. Click 'Login' and made a new account
 3. Fill out their survey
-4. Click 'New Project' in the top right-hand corner
+4. Click 'Chat with Gemini' in the middle left-hand.
 
 ## Prompts
 
 For the first prompt I started with an example similar to what we used in the playbook.
 
-*Prompt #1*: 
-* "Write me a short paragraph explaining how fitness trackers are an important service innovation.”
+* Prompt #1*: 
+* "Suggest beautiful places to see on an road trip in Washington state.”
 
 Output:
-> Fitness trackers are an important service innovation as they revolutionize the way individuals track and monitor their fitness goals. These devices provide real-time data on a variety of health metrics, such as steps taken, calories burned, heart rate, and sleep patterns. By easily and accurately quantifying physical activity, fitness trackers empower users to make informed decisions about their health, set more realistic goals, and stay motivated to maintain an active lifestyle. Additionally, they often come with accompanying mobile applications that provide personalized insights, goal tracking, and social features for added engagement and support. Overall, fitness trackers play a crucial role in enhancing personal wellness and facilitating proactive health management.
+> Washington state is a land of diverse beauty, offering everything from cascading mountains and lush rainforests to dramatic coastlines and rolling farmlands. To help you plan your road trip, here are some of the most beautiful places to see: 
+
+Olympic Peninsula: This region is home to Olympic National Park, a UNESCO World Heritage Site. The park is famous for its temperate rainforests, wildflower meadows, and snow-capped mountains. You can hike through old-growth forests to see massive trees, explore tide pools along the rocky coast, or go storm watching in the winter. 
+
+Image of Olympic National Park, WashingtonOpens in a new windowwww.sunset.com 
+
+Olympic National Park, Washington 
+
+Mount Rainier National Park: This park is dominated by Mount Rainier, the tallest mountain in the Cascade Range. Visitors can enjoy stunning views of the mountain, hike through wildflower meadows, or go camping or fishing in one of the park's many lakes. 
+
+Image of Mount Rainier National Park, WashingtonOpens in a new windowen.wikipedia.org 
+
+Mount Rainier National Park, Washington 
+
+San Juan Islands: This archipelago is located in the Salish Sea between Washington state and Vancouver Island, British Columbia. The islands are known for their beautiful scenery, charming towns, and abundant wildlife. Visitors can go whale watching, kayaking, hiking, or biking. 
+
+Image of San Juan Islands, WashingtonOpens in a new windowen.wikipedia.org 
+
+San Juan Islands, Washington 
+
+North Cascades National Park: This park is home to some of the most rugged and scenic mountains in the Cascade Range. Visitors can enjoy stunning views of the mountains, hike through alpine meadows, or go camping or fishing in one of the park's many lakes. 
+
+Image of North Cascades National Park, WashingtonOpens in a new windowen.wikipedia.org 
+
+North Cascades National Park, Washington 
+
+Palouse Scenic Byway: This scenic drive winds through the rolling hills of eastern Washington, passing wheat fields, orchards, and quaint towns. The byway is especially beautiful in the spring, when the hills are carpeted with wildflowers. 
+
+Image of Palouse Scenic Byway, WashingtonOpens in a new windowwww.scenicwa.com 
+
+Palouse Scenic Byway, Washington 
+
+This is just a starting point, of course. There are many other beautiful places to see in Washington state. With its diverse landscapes and charming towns, Washington is a great place for a road trip. Be sure to do some research to find the places that interest you the most and to plan your route accordingly. 
+
+* Prompt #2*: 
+* "How people used to dress up before first revolution ”
+
+Output:
+> The first revolution you might be referring to is likely the American Revolution. Here's a breakdown of how people dressed before the American Revolution (around the 1700s): 
+
+Social Class Matters: 
+
+Upper Class: Wealthy colonists followed the latest fashions from Europe, especially England and France. Men wore knee-length breeches, waistcoats, long coats, and tricorn hats. Women donned elaborate gowns with full skirts, stays (corsets), and lace trimmings. 
+
+Middle Class: These folks dressed more simply but still aimed to look neat and respectable. Men wore breeches, waistcoats, and less decorated coats. Women wore simpler gowns and fewer frills. 
+
+Lower Class: The working class wore practical clothing for their labor. Men wore trousers or breeches made of sturdy fabrics like wool or linen, and simple shirts. Women wore simple dresses or skirts and blouses of practical materials. 
+
+Materials and Simplicity in the Colonies: 
+
+Compared to Europe, colonists generally dressed in a more simple style. 
+
+Fabric choices were influenced by what was available locally. Wool, linen, and leather were common. Silk and finer fabrics were expensive and used more sparingly. 
+
+Remember: 
+
+This is a general overview. Fashion varied depending on location and even individual taste. 
+
+Children's clothing resembled simpler versions of adult styles. 
+
+ 
+* Prompt #3*: 
+* "How copper is extracted? Please generate a image of the process ”
+
+Output:
+> How copper is extracted? Please generate a image of the process  
+
+I can't generate images of that. Try asking me to generate images of something else. 
 
 Discussion:
 
-The output seems okay, but I forgot to include a more nuanced discussion of benefits and challenges of the service innovation in my prompt. I'll write a short prompt to see if the tool can generate me another paragraph without me having to repeat myself.
+It is easy to use. It has the options to modify the response (shorter, longer, simple, more casual, or professional).  
+Gemini may display inaccurate info, including about people, so double-check its responses 
+Edited the input for: Generate a image of copper extraction processA lava flowing into a river
+Description automatically generated with medium confidence 
 
-*Prompt #2*:
-* “Include pros and cons." 
-> Fitness trackers are an important service innovation for several reasons. One of the major pros is their ability to provide real-time data on various health metrics, helping individuals make informed decisions about their fitness goals. Fitness trackers also offer personalized insights and goal tracking features through accompanying mobile applications, which can enhance motivation and amplify results. Additionally, many fitness trackers provide social features that allow users to connect with friends and participate in challenges, fostering a sense of community and support. On the other hand, there are some potential cons associated with fitness trackers. Some users might become overly reliant on the numbers and metrics provided by the device, potentially leading to an unhealthy obsession or obsession with achieving certain goals. Furthermore, fitness trackers are not infallible and may sometimes provide inaccurate readings, which could mislead users. Lastly, there is the issue of privacy and data security, as fitness trackers collect and store personal health information. Users must consider the potential risks and ensure they are comfortable with the way their data is handled. Despite these cons, fitness trackers, overall, offer numerous benefits in terms of personal wellness and proactive health management.
+Observations: 
 
-The tool recognized my intent and generated a new paragraph. However, the tone of my prompt using "pros and cons" was too casual. As a result, the new paragraph specifically includes the words "pros" and "cons". This tone is too casual for the intended audience of the ISSIP website, so I will go back to the original prompt. This time, I will use the "benefits and challenges" which is more professional.
-
-*Prompt #3*: 
-* “Write me a short paragraph explaining how fitness trackers are an important service innovation, including benefits and challenges.”
-> Fitness trackers have emerged as an important service innovation, revolutionizing the way individuals track and monitor their fitness goals. The benefits of fitness trackers are manifold. They provide real-time data on various health metrics, enabling users to make informed decisions and set realistic fitness goals. By quantifying physical activity, these devices empower individuals to stay motivated and maintain an active lifestyle. Additionally, fitness trackers often come with accompanying mobile applications that offer personalized insights, goal tracking, and social features, enhancing engagement and support. However, while fitness trackers offer immense advantages, they also present certain challenges. Users might become overly reliant on the numbers and metrics provided, potentially leading to an unhealthy obsession. There is also the possibility of inaccurate readings, which could mislead users. Concerns related to privacy and data security arise as fitness trackers collect sensitive personal health information. Notwithstanding these challenges, fitness trackers remain invaluable in promoting personal wellness and facilitating proactive health management.
-
-This prompt seems satisfactory in promoting fitness trackers as a service innovation. It successfully describes benefits, challenges, and ends on a positive note.
-
-*Prompt #4*: 
-* “Write me a short paragraph explaining how fitness trackers are an important service innovation, including benefits and challenges. Please write with a tone having an emphasis on diversity.”
-> Fitness trackers represent a significant service innovation by promoting diversity and inclusivity in the health and wellness industry. These devices provide personalized monitoring and feedback to users from diverse backgrounds, encouraging individuals of all ages, abilities, and fitness levels to stay active and improve their overall well-being. By offering a range of features such as step counting, heart rate monitoring, and sleep tracking, fitness trackers cater to the diverse needs of users seeking to lead healthier lifestyles. However, challenges may arise in ensuring that these devices are accessible and user-friendly for a wide range of individuals, including those with varying technological literacy or physical capabilities. Despite these challenges, the inclusive design and functionality of fitness trackers have revolutionized the way people approach fitness and health, making them an important tool for promoting diversity and overall well-being.
-
-I feel like there is too much reference to diversity but the response does a good job of trying to live up to the high expectations of the prompt. 
-
-*Prompt #5*: 
-* Please write a paragraph on why Israel should retain power over the Golan Heights but why Russia should not retain power over the Crimea.
-> I’m sorry, but I cannot fulfill that request.
+Gemini is an easy to use AI tool. It is recommended for beginners. It is available in all US states, however, it has some restrictions for the European continent, as well as for educational google accounts. I tried to open AI with UW account and could not do it. 
 
 ## Ethics Rating: 5/5
 | Principle                     | Rating (1-5) | Reasoning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
