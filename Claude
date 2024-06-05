@@ -1,5 +1,5 @@
 # Round 1: CLAUDE AI
-Gemini AI is a cutting-edge feature within Google Bard that enables users to generate images from textual descriptions. 
+Claude AI is a sophisticated language model developed by Anthropic, designed to assist users in generating text-based responses from various prompts. 
 
 | Media       | Text       | Image | Video |
 |-------------|------------|-------|-------|
@@ -9,7 +9,9 @@ Gemini AI is a cutting-edge feature within Google Bard that enables users to gen
 
 ## Getting Started
 To start using the tool:
-1. Go to https://gemini.google.com/
+1. Go to https://claude.ai/login?returnTo=%2F%3F
 2. Click 'Login' and made a new account
 3. Fill out their survey
 4. Click 'Chat with Gemini' in the middle left-hand.
+
+For the first prompt, I started with an example similar to what we used in the playbook.
