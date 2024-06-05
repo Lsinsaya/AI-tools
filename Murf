@@ -1,1 +1,115 @@
+Murf
+Murf AI is an advanced text-to-speech (TTS) tool that converts text into realistic voiceovers, designed for use in various applications such as videos, presentations, and audiobooks.
 
+| Media       | Text       | Image | Video |
+|-------------|------------|-------|-------|
+| Supported?  | Yes        | YES    | No    |
+| Rating      | 5          | 5     | 0     |
+| Time needed | 10 minutes | 10 MINUTES   | N/A   |
+
+## Getting Started
+To start using the tool:
+1. Go to https://murf.ai/studio/login
+2. Click 'Login' and made a new account
+
+Start a new project by clicking 'Create New Project' in the dashboard.
+Prompts
+For the first prompt, I started with an example similar to what we used in the playbook.
+
+Prompt #1:
+
+"Create a voiceover for a promotional video on fitness trackers."
+Output:
+
+The voiceover generated was clear, professional, and engaging. The voice artist's tone was enthusiastic, effectively capturing the promotional nature of the content. The pronunciation and pacing were spot on, making it suitable for a promotional video.
+
+Discussion:
+
+The output was high quality, and the tool successfully generated a voiceover that matched the requirements of a promotional video. The voice sounded natural and engaging, which is crucial for promotional content.
+
+Prompt #2:
+
+"Create a voiceover for a documentary on ancient civilizations."
+Output:
+
+The voiceover had a deep, authoritative tone suitable for a documentary. The delivery was steady and clear, with appropriate pauses and emphasis to maintain viewer interest and convey information effectively.
+
+Discussion:
+
+The voiceover was appropriate for a documentary, with a tone that conveyed authority and seriousness. The pacing and clarity were excellent, making it easy to follow along with the content.
+
+Prompt #3:
+
+"Create a voiceover for a children's storybook."
+Output:
+
+The voiceover was warm and expressive, with a friendly tone that would appeal to children. The voice artist used different intonations and expressions to bring the story to life, making it engaging and entertaining for young listeners.
+
+Discussion:
+
+The tool excelled in generating a voiceover suitable for a children's storybook. The voice was friendly and expressive, which is essential to capture the attention and imagination of young listeners.
+
+Prompt #4:
+
+"Create a voiceover for an instructional video on using a new software."
+Output:
+
+The voiceover was clear and instructional, with a professional tone that guided the listener through the steps effectively. The pacing was measured, ensuring that users could follow along without feeling rushed.
+
+Discussion:
+
+The generated voiceover was ideal for an instructional video. The clear and professional tone, combined with measured pacing, made it easy to understand and follow the instructions.
+
+Prompt #5:
+
+"Create a voiceover discussing the ethical implications of artificial intelligence."
+Output:
+
+The voiceover had a serious and thoughtful tone, suitable for discussing ethical implications. The delivery was deliberate, with appropriate pauses to emphasize key points and allow listeners to reflect on the information presented.
+
+Discussion:
+
+The tool produced a voiceover with a tone and delivery appropriate for discussing serious topics like ethics in AI. The thoughtful tone and deliberate pacing helped convey the gravity of the subject matter.
+
+
+
+Observations:  
+
+It generates real voices from text we input. I think it is a great tool to create presentations and videos. It is easy to use and provides millions of stock music, images, and video assets that you can use to create videos for the web, social media, marketing and more.  
+
+Also has the option to clone your voice (payment plan) 
+
+ 
+
+Benefits:  
+
+Free access 
+
+Many alternative voices: Murf AI provides over 120 voices available in 20 languages. 
+
+Media assets: Murf AI offers millions of media assets (videos, photos, pictures). You can also upload your videos and other media assets for on-brand results. 
+
+Customization: The voice editor allows you to change the pitch, tone, and speaking style. 
+
+Ease of use. 
+
+
+
+## Ethics Rating: 5/5
+| Principle                     | Rating (1-5) | Reasoning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|-------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Fairness**               |              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Diverse Representative Data   | 5            | The tool supports multiple voice options across different accents and languages, ensuring diverse representation in voiceover generation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Bias Awareness and Mitigation | 5            |  The tool offers customization options to adjust the tone and style of voiceovers, allowing users to mitigate potential biases and tailor the output to specific needs. Additionally, it avoids generating content that may be inflammatory or politically sensitive.                                                                                                                                                                                                                            |
+| **2. Reliability**            |              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Quality Results over Time     | 5            |  The tool consistently produces high-quality voiceovers, maintaining clarity, naturalness, and appropriateness across different use cases.                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **3. Traceability**           |              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Source Attribution            | 4            | The tool provides clear attribution for the voice models and data sources used, maintaining transparency in its processes.
+| **4. Transparency**           |              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Resource Accessibility        | 4            | Murf AI includes comprehensive resources such as user guides, API documentation, and detailed terms of service. However, transparency could be further improved by providing more explicit information on why certain content may not be generated.
+| **5. Privacy and Security**   |              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Third-Party Disclosure        | 5            | The tool adheres to strict privacy and security standards, ensuring user data is not shared with third parties without consent. Detailed security policies are available, and users have control over their data through accessible features.
+
+
+Overall Rating: 4/5
+The Murf AI tool performed exceptionally well, generating high-quality voiceovers quickly and efficiently. The entire process from visiting the site to creating satisfactory voiceover prompts took less than 10 minutes.
